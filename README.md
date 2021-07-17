@@ -37,8 +37,3 @@ The program should run after entering the commands above.
 
 Use to generate strong passwords for your online accounts.
 Longer the password length the stronger the password.
-=======
-# PasswordGenerator.py
-Created by Logan-proj
-
-My first python project lets the user create a strong randomly generated password.
