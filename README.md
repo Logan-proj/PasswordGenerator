@@ -21,7 +21,7 @@ Wanted to create a python project to solidify what ive learned while studying py
 
 ## Requirements
 
-Python is required to run the main.py file
+Python3 is required to run the main.py file
 
 ## Installation or Getting Started
 
@@ -29,7 +29,7 @@ Open the command prompt and enter the following:
 
     git clone https://github.com/Logan-proj/PasswordGenerator.git
     cd PasswordGenerator
-    python main.py
+    python3 main.py
 
 The program should run after entering the commands above.
 
